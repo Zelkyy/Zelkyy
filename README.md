@@ -29,7 +29,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Zelkyy/Zelkyy/blob/main/.github/workflows/snake.yml)
+  ![Snake animation](https://github.com/Zelkyy/Zelkyy/actions/workflows/snake.yml)
   
 </div>
 
