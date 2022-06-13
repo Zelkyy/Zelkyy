@@ -29,7 +29,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Zelkyy/Zelky/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Zelkyy/Zelkyy/blob/main/.github/workflows/snake.yml)
   
 </div>
 
